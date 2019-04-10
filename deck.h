@@ -37,6 +37,8 @@ class Deck
 
     Card myCards[SIZE];
     int myIndex;  // current card to deal
+
+    void swap(Card &c1, Card &c2);
 };
 
 #endif
