@@ -21,7 +21,7 @@ Card::Card(int rank, Suit s){
 //returns card in string form
 string Card::toString() const {
     string rank = rankString(myRank);
-    string suit = to_string(mySuit);
+    string suit = suitString(mySuit);
     string card = rank + suit;
     return card;
 }
