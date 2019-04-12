@@ -1,0 +1,222 @@
+
+--shuffle test--
+Original:
+After Shuffle:
+Shuffle again:
+
+ 
+--gametime!--
+Max's Hand: 4h,Jd,3d,10s,Jh,3s,5d
+Yussef's Hand: Qc,Ac,2c,Ah,8c,Kc,Ad
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h
+Max asks: do you have a J?
+Yussef: Go fish
+Max's Hand: 4h,5d
+Yussef's Hand: Qc,2c,Kc,Ad
+Max's Books: Jd,Jh,3d,3s,10s,10h
+Yussef's Books:Ac,Ah,8c,8h
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h
+Max asks: do you have a 5?
+Yussef: Go fish
+Max's Hand: 4h,5d,9h
+Yussef's Hand: Qc,2c,Kc,Ad,3h
+Max's Books: Jd,Jh,3d,3s,10s,10h
+Yussef's Books:Ac,Ah,8c,8h
+Yussef asks: do you have a 2?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h
+Max asks: do you have a 4?
+Yussef: Go fish
+Max's Hand: 4h,5d,9h,7s
+Yussef's Hand: Qc,2c,Kc,Ad,3h,5h
+Max's Books: Jd,Jh,3d,3s,10s,10h
+Yussef's Books:Ac,Ah,8c,8h
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks
+Max asks: do you have a 7?
+Yussef: Go fish
+Max's Hand: 4h,5d,9h,7s,Qh
+Yussef's Hand: Qc,2c,Ad,3h,5h
+Max's Books: Jd,Jh,3d,3s,10s,10h
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks
+Yussef asks: do you have a 2?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a 5?
+Yussef: Yes I have a 5
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 4h,9h,7s,Qh,5c
+Yussef's Hand: 2c,Ad,3h
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a 2?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a 9?
+Yussef: Go fish
+Max's Hand: 4h,9h,7s,Qh,5c,8d
+Yussef's Hand: 2c,Ad,3h,Kd
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a K?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 4h,9h,7s,Qh,5c,8d,Js
+Yussef's Hand: 2c,Ad,3h,Kd,8s
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a 9?
+Yussef: Go fish
+Max's Hand: 4h,9h,7s,Qh,5c,8d,Js,6s
+Yussef's Hand: 2c,Ad,3h,Kd,8s,Jc
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a K?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 4h,9h,7s,Qh,5c,8d,Js,6s,3c
+Yussef's Hand: 2c,Ad,3h,Kd,8s,Jc,7d
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a 4?
+Yussef: Yes I have a 4
+Max asks: do you have a 5?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,8d,Js,6s,3c
+Yussef's Hand: 2c,Ad,3h,Kd,8s,Jc,7d
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,8d,Js,6s,3c,2d
+Yussef's Hand: 2c,Ad,3h,Kd,8s,Jc,7d,10d
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a K?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a 8?
+Yussef: Yes I have a 8
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,Js,6s,3c,2d,10c
+Yussef's Hand: 2c,Ad,3h,Kd,Jc,7d,10d,9s
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a K?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Max asks: do you have a J?
+Yussef: Yes I have a 11
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,6s,3c,2d,10c,7h
+Yussef's Hand: 2c,Ad,3h,Kd,7d,10d,9s,6d
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs
+Yussef asks: do you have a K?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h
+Max asks: do you have a 6?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,6s,3c,2d,10c,7h,Kh
+Yussef's Hand: 2c,Ad,3h,Kd,7d,10d,9s
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h
+Yussef asks: do you have a A?
+Max: Go fish
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d
+Max asks: do you have a 9?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,6s,3c,2d,10c,7h,Kh,As
+Yussef's Hand: 2c,Ad,3h,Kd,7d,10d
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d
+Yussef asks: do you have a K?
+Max: Yes I have a 13
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh
+Yussef asks: do you have a A?
+Max: Yes I have a 1
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As
+Yussef asks: do you have a 10?
+Max: Yes I have a 10
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c
+Yussef asks: do you have a 2?
+Max: Yes I have a 2
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d
+Yussef asks: do you have a 7?
+Max: Yes I have a 7
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h
+Yussef asks: do you have a 3?
+Max: Yes I have a 3
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a 6?
+Yussef: Go fish
+Max's Hand: 9h,Qh,5c,6s,4d
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 9h,Qh,6s,4d
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a 4?
+Yussef: Go fish
+Max's Hand: 9h,Qh,6s,4d,2h
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a Q?
+Yussef: Go fish
+Max's Hand: 9h,Qh,6s,2h
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s,4d,4s
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a 2?
+Yussef: Go fish
+Max's Hand: 9h,Qh,2h
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s,4d,4s,6s,6c
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a 9?
+Yussef: Go fish
+Max's Hand: 9h,2h
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s,4d,4s,6s,6c,Qh,Qd
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a 2?
+Yussef: Go fish
+Max's Hand: 2h
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s,4d,4s,6s,6c,Qh,Qd,9h,9c
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Max asks: do you have a 2?
+Yussef: Go fish
+Max's Hand: 
+Yussef's Hand: 
+Max's Books: Jd,Jh,3d,3s,10s,10h,5d,5h,4h,4c,7s,7c,8d,8s,Js,Jc,5c,5s,4d,4s,6s,6c,Qh,Qd,9h,9c,2h,2s
+Yussef's Books:Ac,Ah,8c,8h,Kc,Ks,Qc,Qs,6d,6h,9s,9d,Kd,Kh,Ad,As,10d,10c,2c,2d,7d,7h,3h,3c
+Yussef's book size = 24
+Max's book size = 28
+Max is the winner!

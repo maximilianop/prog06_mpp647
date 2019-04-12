@@ -12,10 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f3db72-51f8-4730-89ff-77c2d65b5da3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/card.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/card.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deck.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/deck.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/gofish_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deck.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go_fish.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gofish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gofish_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_6.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_6.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_6.dir/go_fish.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_6.dir/go_fish.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_6.dir/player.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_6.dir/player.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project_6" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project_6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go_fish.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/go_fish.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/player.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +40,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/go_fish.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1550">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
               </folding>
@@ -45,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/player.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-415">
+            <state relative-caret-position="-850">
               <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding>
                 <element signature="e#237#256#0" expanded="true" />
@@ -54,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/player.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
-              <caret line="111" selection-start-line="111" selection-end-line="111" />
+            <state relative-caret-position="3248">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
               <folding>
                 <element signature="e#42#60#0" expanded="true" />
               </folding>
@@ -120,9 +130,10 @@
         <option value="$PROJECT_DIR$/card.h" />
         <option value="$PROJECT_DIR$/deck.h" />
         <option value="$PROJECT_DIR$/deck.cpp" />
-        <option value="$PROJECT_DIR$/go_fish.cpp" />
         <option value="$PROJECT_DIR$/card.cpp" />
         <option value="$PROJECT_DIR$/player.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/gofish_results.txt" />
+        <option value="$PROJECT_DIR$/go_fish.cpp" />
       </list>
     </option>
   </component>
@@ -151,6 +162,11 @@
               <item name="Project_6" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Project_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_6" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +175,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -181,7 +198,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Project_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project_6" TARGET_NAME="Project_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project_6" RUN_TARGET_NAME="Project_6">
+    <configuration name="Project_6" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="gofish_results.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project_6" TARGET_NAME="Project_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project_6" RUN_TARGET_NAME="Project_6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -205,18 +222,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37588000" />
+    <option name="totallyTimeSpent" value="40765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="3200" height="1800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5291777" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5289389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39948618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,17 +252,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/go_fish.cpp</url>
-          <line>118</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
@@ -286,16 +292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/player.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#237#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/card.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
@@ -313,22 +309,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go_fish.cpp">
+    <entry file="file://$PROJECT_DIR$/player.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1550">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="3248">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
           <folding>
-            <element signature="e#42#61#0" expanded="true" />
+            <element signature="e#42#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/player.cpp">
+    <entry file="file://$PROJECT_DIR$/gofish_results.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        <state relative-caret-position="-850">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding>
-            <element signature="e#42#60#0" expanded="true" />
+            <element signature="e#237#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/gofish_results.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_fish.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
           </folding>
         </state>
       </provider>

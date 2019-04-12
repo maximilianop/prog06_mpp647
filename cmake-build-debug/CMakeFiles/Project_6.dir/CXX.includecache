@@ -16,19 +16,23 @@ string
 card.h
 /home/paxm/Documents/EE312/Project_6/card.h
 
-/home/paxm/Documents/EE312/Project_6/player.cpp
+/home/paxm/Documents/EE312/Project_6/go_fish.cpp
+iostream
+-
+fstream
+-
+card.h
+/home/paxm/Documents/EE312/Project_6/card.h
+player.h
+/home/paxm/Documents/EE312/Project_6/player.h
 istream
 -
 time.h
 -
 cstdlib
 -
-card.h
-/home/paxm/Documents/EE312/Project_6/card.h
 deck.h
 /home/paxm/Documents/EE312/Project_6/deck.h
-player.h
-/home/paxm/Documents/EE312/Project_6/player.h
 
 /home/paxm/Documents/EE312/Project_6/player.h
 iostream
