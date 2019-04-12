@@ -1,5 +1,5 @@
 //
-// Created by Maximiliano Perez and
+// Created by Maximiliano Perez
 //
 
 #include "card.h"
@@ -67,9 +67,7 @@ string Card::rankString(int r) const {
 }
 
 bool Card::operator ==(const Card &rhs) const {
-    if (myRank == rhs.myRank) {
-        if (mySuit == rhs.mySuit) return true;
-    }
+    if (myRank == rhs.myRank) return true;
     return false;
 }
 

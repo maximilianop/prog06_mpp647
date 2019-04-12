@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Project_6.dir/deck.cpp.o CMakeFiles/Project_6.dir/card.cpp.o CMakeFiles/Project_6.dir/player.cpp.o CMakeFiles/Project_6.dir/go_fish.cpp.o  -o Project_6 

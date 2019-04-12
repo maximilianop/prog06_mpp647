@@ -87,8 +87,6 @@ string Player::showBooks() const {
     string books;
     for(int i=0; i<getBookSize();i++){
         if(i!=getBookSize()-1) {
-
-
             books += myBook[i].toString() + ",";
         }
         else{
@@ -98,7 +96,17 @@ string Player::showBooks() const {
     }
 }
 
-
-
-
-
+bool Player::checkHandForBook(Card &c1, Card &c2) {
+    for (int i = 0; i < myHand.size(); i++) {
+        for (int j = i + 1; j < myHand.size(); j++){
+            if (myHand[i] == myHand[j]){
+                c1 = myHand[i];
+                c2 = myHand[j];
+                myHand.erase(myHand.begin() + i);
+                myHand.erase(myHand.begin() + j-1);
+                return true;
+            }
+        }
+    }
+    return false;
+}
