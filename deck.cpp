@@ -61,3 +61,10 @@ Card Deck::dealCard(){
 int Deck::size() const {
     return (SIZE - myIndex);
 }
+
+void Deck::showdeck(){
+    for (int i=0; i<SIZE; i++){
+        cout << myCards[i].toString() << " ";
+    }
+    cout << endl;
+}

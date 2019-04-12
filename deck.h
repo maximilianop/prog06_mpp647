@@ -30,6 +30,7 @@ class Deck
 
     void shuffle();   // shuffle the deck, all 52 cards present
     Card dealCard();   // get a card, after 52 are dealt, fail 
+    void showdeck();  // show deck
 
     int  size() const; // # cards left in the deck
 
