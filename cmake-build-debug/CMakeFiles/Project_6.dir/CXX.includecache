@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paxm/Documents/EE312/Project_6/card.h
+iostream
+-
+string
+-
+
+/home/paxm/Documents/EE312/Project_6/deck.h
+card.h
+/home/paxm/Documents/EE312/Project_6/card.h
+
+/home/paxm/Documents/EE312/Project_6/player.cpp
+istream
+-
+time.h
+-
+cstdlib
+-
+card.h
+/home/paxm/Documents/EE312/Project_6/card.h
+deck.h
+/home/paxm/Documents/EE312/Project_6/deck.h
+player.h
+/home/paxm/Documents/EE312/Project_6/player.h
+
+/home/paxm/Documents/EE312/Project_6/player.h
+iostream
+-
+string
+-
+vector
+-
+card.h
+/home/paxm/Documents/EE312/Project_6/card.h
+

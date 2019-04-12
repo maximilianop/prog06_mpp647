@@ -1,5 +1,5 @@
 //
-// created by Maximiliano Perez and
+// created by Maximiliano Perez
 //
 #include "deck.h"
 #include "time.h"
