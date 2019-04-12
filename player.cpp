@@ -90,7 +90,7 @@ string Player::showBooks() const {
             books += myBook[i].toString() + ",";
         }
         else{
-            books = myBook[i].toString();
+            books += myBook[i].toString();
             return books;
         }
     }
